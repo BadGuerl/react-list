@@ -1,5 +1,3 @@
-import React from 'react';
-
 function Header() {
     return(
         <nav className="navbar navbar-light bg-light">
@@ -10,4 +8,4 @@ function Header() {
     )
 }
 
-export default Header;
+export default Header
